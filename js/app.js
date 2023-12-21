@@ -73,6 +73,7 @@ function lap() {
     laps.appendChild(Li);
   }
 }
+//reset lap
 
 function resetLap() {
   laps.innerHTML = "";
